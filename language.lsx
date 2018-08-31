@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+    <header version="2" time="1367571612" />
+    <version major="1" minor="3" revision="0" build="0" />
+    <region id="Config">
+        <node id="root">
+            <children>
+                <node id="ConfigEntry">
+                    <attribute id="MapKey" value="Language" type="22" />
+                    <attribute id="Type" value="1" type="5" />
+                    <attribute id="Value" value="Russian" type="20" />
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
